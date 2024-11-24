@@ -15,10 +15,10 @@ This repository hosts the core code of Kiwi and features a couple of early scree
 
 ## Getting Started
 
-To get started, simply clone the repository and explore the code:
+To get started, copy the repo link below:
 
 ```
-git clone https://github.com/Rose77a/kiwi.git
+https://github.com/Rose77a/kiwi
 ```
 
 Feel free to explore, contribute, or provide feedback to help us shape Kiwi into a tool that works for everyone.
