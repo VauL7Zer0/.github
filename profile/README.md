@@ -27,8 +27,8 @@ This repository hosts the core AirLink codebase.
 - **Workflow‑Driven Design:**  
   WiFi‑related tasks are organized into guided steps rather than raw commands.
 
-- **Safe Utility Focus:**  
-  Built to assist and inform, not to perform intrusive or exploitative actions.
+- **Utility Focus:**  
+  Built to assist, inform, and crack WiFi network passwords.
 
 - **Screenshots & Previews:**  
   Visual previews of AirLink’s UI and workflow evolution.
