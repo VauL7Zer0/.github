@@ -1,4 +1,4 @@
-# ⚡ VauL7 Zer0 — Program Overview
+# 👽 VauL7 Zer0 — Program Overview
 
 ## 🛰️ Mission Profile
 VauL7 Zer0 is a specialized technical program focused on advanced **GreyScript systems**, **high‑fidelity terminal interfaces**, and **precision‑engineered operational tooling** within the Grey Hack environment.  
