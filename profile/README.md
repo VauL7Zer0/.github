@@ -19,6 +19,9 @@ VauL7 Zer0 maintains a **controlled public profile**.
 Only finalized technologies and approved summaries are released externally.  
 Internal processes, personnel, and methodologies remain **restricted** under standard confidentiality protocols.
 
+#### <i>Airlink UX</i>
+<img width="400" height="254" alt="Airlink Alpha 4 Custom Themes Preview" src="https://github.com/user-attachments/assets/a6d114d4-05ae-4633-8752-9e971c940212" />
+
 ---
 
 ## 🧭 Operational Structure
