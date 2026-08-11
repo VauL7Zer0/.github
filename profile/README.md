@@ -1,46 +1,43 @@
-# 👽 VauL7 Zer0 — Program Overview
-
-## 🛰️ Mission Profile
-VauL7 Zer0 is a specialized technical program focused on advanced **GreyScript systems**, **high‑fidelity terminal interfaces**, and **precision‑engineered operational tooling** within the Grey Hack environment.  
-Our mission centers on developing technologies that enhance digital responsiveness, signal interpretation, and interface reliability across complex operational scenarios.
+# ⧄ VauL7Zero ⧄
+> **Advanced Technologies Research & Development**
 
 ---
 
-## 🧩 Core Research Areas
-- **Interface Engineering** — high‑performance terminal UX with aesthetic and functional coherence  
-- **Computational Refinement** — optimized processing pipelines for advanced in‑game operations  
-- **Adaptive Tooling Frameworks** — modular systems designed for stability and clarity  
-- **Signal & Data Interaction** — analysis and interpretation of high‑density operational data
+## Standard Operating Procedures (Mandatory)
+
+> **REQUIRED FOR ALL CODEBASES**  
+> These steps are non-negotiable baselines for every project.
+
+- **Repository Management:** Save and maintain your code on `github.com` repositories so you don't lose your code.
+- **Inline Documentation:** Include clean, structured comments and documentation within source code files.  Future you will thank you, as will the rest of us.
+- **External Documentation:** Include clean, structured documentation outside of code (e.g., `README.md`).
 
 ---
 
-## 🛡️ Public Disclosure Policy
-VauL7 Zer0 maintains a **controlled public profile**.  
-Only finalized technologies and approved summaries are released externally.  
-Internal processes, personnel, and methodologies remain **restricted** under standard confidentiality protocols.
+## Advanced Operating Procedures
 
-#### <i>Airlink UX</i>
-<img width="400" height="254" alt="Airlink Alpha 4 Custom Themes Preview" src="https://github.com/user-attachments/assets/a6d114d4-05ae-4633-8752-9e971c940212" />
+> **RECOMMENDED PRACTICE**  
+> The best have a higher baseline
 
----
-
-## 🧭 Operational Structure
-The program functions as a focused development unit.  
-Projects progress through internal evaluation cycles and controlled experimentation, resulting in tools engineered for:
-
-- **Operational consistency**  
-- **High‑impact workflows**  
-- **Long‑term stability**  
-- **Minimal surface complexity**
-
-Public releases represent a **curated subset** of ongoing work.
+- **DRY Principle:** No duplicated code (make a function).
+- Include **docBlocks** on all custom functions.
 
 ---
 
-## 🔒 Confidentiality Notice
-Information beyond this overview is not available for public distribution.  
-VauL7 Zer0 continues to advance its technical objectives quietly and without external visibility.
+## Overkill Operating Procedures
+
+> **NEXT-LEVEL / OPTIONAL EXTRAS**  
+> Go crazy!  We'd love to see what you can think up.
+
+- Include **UML diagrams** on all custom functions.
+- Include **HotKey Navagable UI** for program operations.
 
 ---
 
-### © VauL7Zer0 — Technical Programs Division
+## Polishing Procedure
+
+> **FINAL REVIEW CHECKLIST**  
+> Run through this before declaring a build complete:
+
+- **Reuse existing libraries:** Code makes use of custom functions when possible (e.g., `GreyScript Prime`, `foxlib`, etc.).
+- **Modular Architecture:** Split your code into multiple files (don't make MASSIVE files).
